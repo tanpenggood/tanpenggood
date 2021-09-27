@@ -1,5 +1,3 @@
-[![tanpenggood's github stats](https://github-readme-stats.vercel.app/api?username=tanpenggood&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanpenggood&layout=)](https://github.com/anuraghazra/github-readme-stats)
-
 > 重庆【**德勤内推**】
 > 
 > 开发、测试、数据分析都有大量岗位
@@ -24,3 +22,7 @@
 >
 > 简历命名格式：`姓名-学校-学历-岗位-工作年限`<br/>
 > 邮件主题格式：`【内推简历】姓名-学校-学历-岗位-工作年限`
+
+[![tanpenggood's github stats](https://github-readme-stats.vercel.app/api?username=tanpenggood&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanpenggood&layout=)](https://github.com/anuraghazra/github-readme-stats)
