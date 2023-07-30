@@ -1,15 +1,26 @@
-### 大家好, 我是[tanpenggood](http://showdoc.itplh.com/)！
----
+<h1 align="center">Hi 👋, I'm Peng (Sam) Tan</h1>
+<h3 align="center">An Application Software Developer from Chongqing, China</h3>
 
-<p align="left">
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tanpenggood&theme=onedark&row=1&column=6" alt="tanpenggood" />
+  </a>
+</p>
+
+<p align="center">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=tanpenggood&show_icons=true&theme=synthwave" alt="tanpenggood :: Profile Stats" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanpenggood&langs_count=10&theme=synthwave&layout=compact" alt="tanpenggood :: Top Langs" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/tanpenggood">
+    <img src="https://streak-stats.demolab.com/?user=tanpenggood&theme=dark"/>
+  </a>
+</p>
+
 ## 一键三连
 
-<p align="left">
-
+<p align="center">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=auto-browser-script-engine&theme=dracula)](https://github.com/tanpenggood/auto-browser-script-engine)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=xiaohongshu&theme=radical)](https://github.com/tanpenggood/xiaohongshu)
 [![ReadMe NanmiCoder](https://github-readme-stats.vercel.app/api/pin/?username=NanmiCoder&repo=MediaCrawler&theme=synthwave)](https://github.com/NanmiCoder/MediaCrawler)
