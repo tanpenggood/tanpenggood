@@ -1,4 +1,26 @@
-> 重庆【**德勤内推**】
+### 大家好, 我是[tanpenggood](http://showdoc.itplh.com/)！
+---
+
+<p align="left">
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=tanpenggood&show_icons=true&theme=synthwave" alt="tanpenggood :: Profile Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanpenggood&langs_count=10&theme=synthwave&layout=compact" alt="tanpenggood :: Top Langs" />
+</p>
+
+## 一键三连
+
+<p align="left">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=auto-browser-script-engine&theme=dracula)](https://github.com/tanpenggood/auto-browser-script-engine)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=xiaohongshu&theme=radical)](https://github.com/tanpenggood/xiaohongshu)
+[![ReadMe NanmiCoder](https://github-readme-stats.vercel.app/api/pin/?username=NanmiCoder&repo=MediaCrawler&theme=synthwave)](https://github.com/NanmiCoder/MediaCrawler)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=jeecg-spring-boot-starter&theme=cobalt)](https://github.com/tanpenggood/jeecg-spring-boot-starter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=geek-training-camp&theme=gruvbox)](https://github.com/tanpenggood/geek-training-camp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=learning-java-log&theme=merko)](https://github.com/tanpenggood/learning-java-log)
+</p>
+
+## 简历内推
+
+>【**德勤内推-重庆**】
 > 
 > 开发、测试、数据分析 大量HC
 > 
@@ -21,7 +43,3 @@
 >
 > 简历命名格式：`姓名-学校-学历-岗位-工作年限`<br/>
 > 邮件主题格式：`【内推简历】姓名-学校-学历-岗位-工作年限`
-
-[![tanpenggood's github stats](https://github-readme-stats.vercel.app/api?username=tanpenggood&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanpenggood&layout=)](https://github.com/anuraghazra/github-readme-stats)
