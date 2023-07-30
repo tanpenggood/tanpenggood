@@ -30,7 +30,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=learning-java-log&theme=merko)](https://github.com/tanpenggood/learning-java-log)
 </p>
 
-## 简历内推
+## Internal Recommendation
 
 >【**德勤内推-重庆**】
 > 
