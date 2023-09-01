@@ -24,8 +24,8 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=auto-browser-script-engine&theme=dracula)](https://github.com/tanpenggood/auto-browser-script-engine)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=xiaohongshu&theme=radical)](https://github.com/tanpenggood/xiaohongshu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=location-top-1000&theme=radical)](https://github.com/tanpenggood/location-top-1000)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=jeecg-spring-boot-starter&theme=cobalt)](https://github.com/tanpenggood/jeecg-spring-boot-starter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=geek-training-camp&theme=gruvbox)](https://github.com/tanpenggood/geek-training-camp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=jeecg-spring-boot-starter&theme=cobalt)](https://github.com/tanpenggood/jeecg-spring-boot-starter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=location-top-1000&theme=radical)](https://github.com/tanpenggood/location-top-1000)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=learning-java-log&theme=merko)](https://github.com/tanpenggood/learning-java-log)
 </p>
