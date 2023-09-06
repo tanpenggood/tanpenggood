@@ -21,7 +21,6 @@
 ## Want Stars🌟
 
 <p align="center">
-  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=auto-browser-script-engine&theme=dracula)](https://github.com/tanpenggood/auto-browser-script-engine)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=xiaohongshu&theme=radical)](https://github.com/tanpenggood/xiaohongshu)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=geek-training-camp&theme=gruvbox)](https://github.com/tanpenggood/geek-training-camp)
