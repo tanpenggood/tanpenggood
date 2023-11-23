@@ -25,7 +25,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=auto-browser-script-engine&theme=dracula)](https://github.com/tanpenggood/auto-browser-script-engine)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=xiaohongshu&theme=radical)](https://github.com/tanpenggood/xiaohongshu)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=geek-training-camp&theme=gruvbox)](https://github.com/tanpenggood/geek-training-camp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=jeecg-spring-boot-starter&theme=cobalt)](https://github.com/tanpenggood/jeecg-spring-boot-starter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood-best-practices&repo=spring-boot-redis-stream&theme=cobalt)](https://github.com/tanpenggood-best-practices/spring-boot-redis-stream)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=location-top-1000&theme=radical)](https://github.com/tanpenggood/location-top-1000)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=learn-codewhisperer&theme=merko)](https://github.com/tanpenggood/learn-codewhisperer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood-best-practices&repo=deploying-multiple-web-applications&theme=merko)](https://github.com/tanpenggood-best-practices/deploying-multiple-web-applications)
 </p>
