@@ -21,7 +21,8 @@
 ## Want Stars🌟
 
 <p align="center">
-  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=zhuangbi&theme=radical)](https://github.com/tanpenggood/zhuangbi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood-best-practices&repo=build-any&theme=gruvbox)](https://github.com/tanpenggood-best-practices/build-any)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=location-top-1000&theme=radical)](https://github.com/tanpenggood/location-top-1000)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanpenggood&repo=auto-browser-script-engine&theme=dracula)](https://github.com/tanpenggood/auto-browser-script-engine)
