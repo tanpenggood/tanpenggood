@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Peng (Sam) Tan</h1>
-<h3 align="center">An Application Software Developer from Chongqing, China</h3>
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">I'm a happy software developer from Chongqing, China</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
