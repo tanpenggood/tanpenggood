@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm a happy software developer from Chongqing, China</h3>
+<h3 align="center">A happy software developer from Chongqing, China</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
